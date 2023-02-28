@@ -6,5 +6,4 @@
 
 module "network" {
   source = "github.com/ChaitanyaKottha/tf-module-vpc"
-  version= "main"
 }
