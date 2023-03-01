@@ -1,5 +1,5 @@
 env = "dev"
-
+default_vpc_id = "vpc-034cd0cba318be75f"
 vpc = {
   main = {
     cidr_block = "10.0.0.0/16"
